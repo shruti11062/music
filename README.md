@@ -1,4 +1,4 @@
-# 🎵 Music App
+# 🎵 Music Player
 
 A modern, stylish music web app built with **React**, **Tailwind CSS**, and **Framer Motion**.  
 This app integrates with **JioSaavn API** to fetch trending songs, search songs/albums, view song details, and play music.
